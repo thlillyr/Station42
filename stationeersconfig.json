@@ -68,7 +68,7 @@
         "InputType": "password",
         "IsFlagArgument": false,
         "ParamFieldName": "ServerPassword",
-        "IncludeInCommandLine": true,
+        "IncludeInCommandLine": false,
         "DefaultValue": "",
         "EnumValues": {}
     },
@@ -254,11 +254,12 @@
             " VulcanSpawnEtnasFury": "Vulcan: Etna's Fury",
             " VulcanSpawnIxionsDemise": "Vulcan: Ixion's Demise",
             " VulcanSpawnTitusReach": "Vulcan: Titus Reach",
+            " VulcanSpawnRoundRobin": "Vulcan: VulcanSpawnRoundRobin",
             " VenusSpawnGaiaValley": "Venus: Gaia Valley",
             " VenusSpawnDaisyValley": "Venus: Daisy Valley",
             " VenusSpawnFaithValley": "Venus: Faith Valley",
             " VenusSpawnDuskValley": "Venus: Dusk Valley",
-            " VenusSpawnRoundRobin": "Venus: Random"
+            " VenusSpawnRoundRobin": "Venus: VenusSpawnRoundRobin"
            
         }
     },
@@ -306,7 +307,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "AutoPauseServer",
         "IncludeInCommandLine": true,
-        "DefaultValue": "true",
+        "DefaultValue": "false",
         "EnumValues": {
             "True": "true",
             "False": "false"
