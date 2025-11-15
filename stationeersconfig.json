@@ -216,7 +216,8 @@
             " MimasBrutal": "Mimas: Brutal condition",
             " VulcanDefault": "Vulcan: Default condition",
             " VenusDefault": "Venus: Default condition",
-            " VulcanBrutal": "Vulcan/Venus: Brutal condition"
+            " VulcanBrutal": "Vulcan/Venus: Brutal condition",
+            " VulcanBrutalCommunity": "Vulcan/Venus: Brutal condition"
         }
     },
     {
@@ -256,7 +257,9 @@
             " VenusSpawnGaiaValley": "Venus: Gaia Valley",
             " VenusSpawnDaisyValley": "Venus: Daisy Valley",
             " VenusSpawnFaithValley": "Venus: Faith Valley",
-            " VenusSpawnDuskValley": "Venus: Dusk Valley"
+            " VenusSpawnDuskValley": "Venus: Dusk Valley",
+            " VenusSpawnRoundRobin": "Venus: Random"
+           
         }
     },
     {
